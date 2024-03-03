@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h2 {
+    color: #333;
+}
+#demo {
+    color: #666;
+}
+button {
+    background-color: #4b684c; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition-duration: 0.6s;
+}
+button:hover {
+    background-color: #45a049; /* Darker Green */
+}
